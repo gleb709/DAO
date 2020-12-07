@@ -1,0 +1,12 @@
+1 MertvieDushi Gogol MINSK 1964
+2 IgraPrestolov Martin MOSKOW 2001
+3 EvgeniyOnegin Pyshkin BREST 1991
+4 HarryPotter Rouling LONDON 1983
+5 451*F Bredberi MINSK 1999
+6 VinoIzOdyvanchikov Bredberi London 2005
+7 Voina&Mir Tolstoi MINSK 1999
+8 SobachieSerdse Bylgakow MOSKOW 2000
+9 Master&Margarita Bylgakov MOSKOW 1954
+10 AnnaKarenina Tostoi MINSK 1995
+11 Prestuplenie&Nakozanie Dostoevskiy BREST 1999
+12 ZelenayaMilya King LONDON 2000
